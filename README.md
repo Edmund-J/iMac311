@@ -80,7 +80,7 @@ Guide used: https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html
 - Graphics acceleration
 - Messages
 - Sleep/Wake
-- The VGA Port in the back of the motherboard does not work, Just use a DVI-D to vga converter and use the DVI port to connect the monitor.
+- The VGA Port in the back of the motherboard won't work, just use a DVI-D to VGA converter and use the DVI port to connect the monitor.
 
 ***
 
