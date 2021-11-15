@@ -62,6 +62,8 @@ Guide used: https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html
 - SMCProcessor.kext
 - SMCSuperIO.kext
 - USBInjectAll.kext (only to generate USBPorts.kext)
+- CPUFriend.kext
+- CPUFriendDataProvider.kext
 
 ### System specific
 
