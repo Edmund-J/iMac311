@@ -1,5 +1,5 @@
 # iMac311
-Hackintosh, used as my other workstation. A work in progress...
+Hackintosh, used as a secondary workstation. A work in progress...
 
 Guide used: https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#getting-started-with-opencore
 
@@ -26,8 +26,8 @@ Guide used: https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html
 ## Software
 
 - BIOS: 3602
-- Boot loader: Opencore 0.7.5
-- Operating system: macOS Bug Sur 11.6.1
+- Boot loader: Opencore 0.7.7
+- Operating system: macOS Monterey 12.1
 
 ### Tools
 
@@ -78,11 +78,11 @@ Guide used: https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html
 ## Working
 
 - Ethernet
-- Audio: Partially, auto switching between speakers and headphones is not working yet
+- Audio: Partially, auto switching between speakers and headphones is not working yet. Front mic does not work yet, just use the one at the back.
 - Graphics acceleration
 - Messages
 - Sleep/Wake
-- The VGA Port in the back of the motherboard won't work, just use a DVI-D to VGA converter and use the DVI port to connect the monitor.
+- The VGA Port in the back of the motherboard won't work, just use the DVI port with a DVI-D to VGA converter to connect the monitor, if needed.
 
 ***
 
