@@ -67,6 +67,7 @@ Guide used: https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html
 
 ### System specific
 
+- SMBIOS iMac16,2
 - USBPorts.kext
 
 ### USB Port Mapping
