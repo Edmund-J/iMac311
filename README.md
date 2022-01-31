@@ -27,7 +27,7 @@ Guide used: https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html
 
 - BIOS: 3602
 - Boot loader: Opencore 0.7.7
-- Operating system: macOS Monterey 12.1
+- Operating system: macOS Monterey 12.2
 
 ### Tools
 
